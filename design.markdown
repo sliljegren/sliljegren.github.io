@@ -8,7 +8,7 @@ permalink: /design/
 
 <p>&nbsp;</p>
 
-Web design and graphical design is something I really like tinkering with, and I have made and maintained websites and created cartoons and posters for conferences, outreach events and writeups. Some examples are shown below.
+Web design and graphical design are something I like tinkering with, and I have made and maintained websites and created cartoons and posters for conferences, outreach events, and writeups. Some examples are shown below.
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
@@ -22,7 +22,7 @@ Web design and graphical design is something I really like tinkering with, and I
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
-### Data visualisation
+### Data visualization
 
 **Published data viz article about gender statistics in Astronomy in Sweden 2018.**
 <img align="center" src="/img/astrogender2018.png">

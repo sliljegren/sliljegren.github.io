@@ -32,8 +32,12 @@ header_pages:
   - other.markdown
   - contact.markdown
 
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
@@ -43,8 +47,7 @@ minima:
     github: sliljegren
     linkedin: sofie-liljegren
 
-plugins:
-  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

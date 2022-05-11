@@ -28,8 +28,9 @@ github_username:  jekyll
 
 header_pages:
   - research.markdown
+  - tools.markdown
   - design.markdown
-  - other.markdown
+  - misc.markdown
   - contact.markdown
 
 plugins:

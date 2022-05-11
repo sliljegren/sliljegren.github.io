@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other
+title: Miscellaneous
 permalink: /other/
 ---
 

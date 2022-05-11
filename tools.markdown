@@ -16,11 +16,13 @@ Science tools for other scientists and astronomer to easily access and use the r
 Using machine learning neural network trained on Fe data, calculate Fe1 and Fe2 1D LTE - 3D non-LTE abundance errors - for more information see Amarsi+2022 in prep.
 
 
-
+[Link to Github](https://github.com/sliljegren/1L-3NErrors)
 
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
 ## Chemical network
 
+Overview of the chemical network used in Liljegren+2020 and Liljegren+2022. Use the jupyter notebook to inspect individual reactions, and to plot and compare reaction rates.
 
+[Link to Github](https://github.com/sliljegren/chemical_network)

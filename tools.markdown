@@ -26,3 +26,8 @@ Using machine learning neural network trained on Fe data, calculate Fe1 and Fe2 
 Overview of the chemical network used in Liljegren+2020 and Liljegren+2022. Use the jupyter notebook to inspect individual reactions, and to plot and compare reaction rates.
 
 [Link to Github](https://github.com/sliljegren/chemical_network)
+
+[Liljegren+2022](https://arxiv.org/abs/2203.07021)
+
+[Liljegren+2020](https://www.aanda.org/articles/aa/full_html/2020/10/aa38116-20/aa38116-20.html)
+

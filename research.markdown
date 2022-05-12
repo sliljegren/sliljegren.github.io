@@ -10,7 +10,9 @@ permalink: /research/
 
 During my research career, I have been involved in several **astronomy modeling projects**, from dwarf stars to supernovae. I here give an overview of my main research interests. 
 
-[My Google Scholar page](https://scholar.google.se/citations?user=XUz96SUAAAAJ&hl=en) for a list of published articles. 
+
+<a href="https://scholar.google.se/citations?user=XUz96SUAAAAJ&hl=en" class="button">Google Scholar page</a>
+
 
 ### Main research interests
 * [Machine learning in astronomy](#ml)
@@ -38,7 +40,7 @@ Using a deep learning neural network, I constructed a machine learning model to 
 
 
 
-**Fig 2. *Left panel*: The neural network model results, comparing the real first-principle physics model 3D NLTE corrections to the ml model corrections. *Right panel:* Same as left, but instead fitting a linear regression model.**
+**Fig 1. *Left panel*: The neural network model results, comparing the real first-principle physics model 3D NLTE corrections to the ml model corrections. *Right panel:* Same as left, but instead fitting a linear regression model.**
 <p align="center">
   <img src="/img/nltecorr_ml.png" alt="Difference between linear and ml model"/>
 </p>
@@ -55,7 +57,7 @@ In this [paper](https://www.aanda.org/articles/aa/abs/2019/06/aa35366-19/aa35366
 This approach can also be used in categorizing AGB stars, shown below. The border between wind/nowind for the DARWIN models can be predicted with high accuracy. 
 
 
-**Fig 1. The wind and no wind border of a slice of the model grid. Red/blue color indicates wind/no wind, the filled background colors are the ml model predictions, and the points are the physics model results.**
+**Fig 2. The wind and no wind border of a slice of the model grid. Red/blue color indicates wind/no wind, the filled background colors are the ml model predictions, and the points are the physics model results.**
 <p align="center">
   <img src="/img/m1_ml.png" alt="Wind or no wind border of AGB models"/>
 </p>
@@ -67,11 +69,13 @@ This approach can also be used in categorizing AGB stars, shown below. The borde
 
 ## Chemistry in Supernovae <a name="chemistry_sn"></a>
 
-[Github link to the chemical networks](https://github.com/sliljegren/chemical_network)
 
-[New paper!](https://arxiv.org/abs/2203.07021)
+<a href="https://github.com/sliljegren/chemical_network" class="button">Github page</a>
 
-[Proof-of-concept paper](https://www.aanda.org/articles/aa/full_html/2020/10/aa38116-20/aa38116-20.html)
+<a href="https://arxiv.org/abs/2203.07021" class="button">New paper!</a>
+
+<a href="https://www.aanda.org/articles/aa/full_html/2020/10/aa38116-20/aa38116-20.html" class="button">Proof-of-concept paper</a>
+
 
 To accurately estimate supernovae (SNe) yields from spectra, molecule contribution needs to be accounted for. During my time in Stockholm, I implemented a new chemistry module (which contains molecular formation) in the SN spectral code SUMO. By comparing the new model results with future observations from James Webb Space Telescope (JWST), the hope is to provide unique tools to constrain the chemistry in the supernova and further our understanding of the nucleosynthesis yields of different types of supernovae.
 
@@ -85,9 +89,10 @@ To accurately estimate supernovae (SNe) yields from spectra, molecule contributi
 
 ## Modelling the winds of red giant stars<a name="agb"></a>
 
-[Movies made with 3D models](https://www.astro.uu.se/~bf/movie/AGBmovie.html)
+<a href="https://www.astro.uu.se/~bf/movie/AGBmovie.html" class="button">Movies made with 3D models</a>
 
-[Thesis](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1196675&dswid=6235)
+<a href="http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1196675&dswid=6235" class="button">Thesis</a>
+
 
 
 During my time as Ph.D. I worked on two major projects: 3D models of cool giant stars or AGB stars, to study the pulsations and small-scale structures caused by convections, and 1D wind and dynamical atmosphere models, to calculate the wind properties for large grids of stellar parameters. 

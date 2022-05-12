@@ -1,5 +1,25 @@
 @charset "utf-8";
 
+.button {
+  background-color: #bbbbbb;
+  border: none;
+  color: #181818;
+  border-radius: 4px;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #24A19C ; /* Green */
+  color: white;
+}
+
+
 $brand-color:           #999999 !default;
 $brand-color-light:     lighten($brand-color, 5%) !default;
 $brand-color-dark:      darken($brand-color, 35%) !default;

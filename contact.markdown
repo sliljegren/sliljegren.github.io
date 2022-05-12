@@ -10,11 +10,7 @@ permalink: /contact/
 
 If you’d like to get in touch feel free to contact me!
 
-[-> Email](mailto:sofie.liljegren@astro.su.se)
 
-[->LinkedIn](https://www.linkedin.com/in/sofie-liljegren/)
-
-
-
-
+<a href="mailto:sofie.liljegren@astro.su.se" class="button">Email</a>
+<a href="https://www.linkedin.com/in/sofie-liljegren/" class="button">LinkedIn</a>
 

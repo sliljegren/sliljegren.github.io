@@ -71,9 +71,7 @@ This approach can also be used in categorizing AGB stars, shown below. The borde
 
 
 <a href="https://github.com/sliljegren/chemical_network" class="button">Github page</a>
-
 <a href="https://arxiv.org/abs/2203.07021" class="button">New paper!</a>
-
 <a href="https://www.aanda.org/articles/aa/full_html/2020/10/aa38116-20/aa38116-20.html" class="button">Proof-of-concept paper</a>
 
 
@@ -90,7 +88,6 @@ To accurately estimate supernovae (SNe) yields from spectra, molecule contributi
 ## Modelling the winds of red giant stars<a name="agb"></a>
 
 <a href="https://www.astro.uu.se/~bf/movie/AGBmovie.html" class="button">Movies made with 3D models</a>
-
 <a href="http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1196675&dswid=6235" class="button">Thesis</a>
 
 
